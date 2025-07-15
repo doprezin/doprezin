@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @doprezin
 - 👀 I’m interested in learning and enter in the front-end carreer.
-- 🌱 I’m currently learning js and react :)
+- 🌱 I’m currently learning python and data analytics :)
 - 📫 How to reach me: pedro.pinheiro585@gmail.com
 
 <!---

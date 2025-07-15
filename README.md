@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @doprezin
-- 👀 I’m interested in learning and enter in the front-end carreer.
+- 👀 I’m interested in learning and enter in the data analytics and IA career.
 - 🌱 I’m currently learning python and data analytics :)
 - 📫 How to reach me: pedro.pinheiro585@gmail.com
 
